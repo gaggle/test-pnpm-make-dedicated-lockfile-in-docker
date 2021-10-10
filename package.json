@@ -1,0 +1,7 @@
+{
+    "name": "test",
+    "devDependencies": {
+      "@pnpm/make-dedicated-lockfile": "^0.2.13"
+    }
+  }
+  
